@@ -1,4 +1,4 @@
-Deployment Guide — MERN Stack Production Setup
+# Deployment Guide — MERN Stack Production Setup
 
 A complete production deployment guide for MERN stack applications covering backend deployment, frontend hosting, MongoDB backup/restore, Nginx reverse proxy configuration, HTTPS setup, PM2 process management, AWS EC2 configuration, security group setup, and production server architecture.
 
