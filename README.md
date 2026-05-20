@@ -1,3 +1,21 @@
+Deployment Guide — MERN Stack Production Setup
+
+A complete production deployment guide for MERN stack applications covering backend deployment, frontend hosting, MongoDB backup/restore, Nginx reverse proxy configuration, HTTPS setup, PM2 process management, AWS EC2 configuration, security group setup, and production server architecture.
+
+This guide explains how to:
+
+deploy frontend applications on Vercel
+deploy backend servers on Amazon Web Services EC2
+configure Nginx as a reverse proxy
+secure applications using HTTPS and SSL certificates
+manage Node.js applications using PM2
+restore and backup MongoDB databases
+configure AWS Security Groups and production networking
+understand production-grade backend architecture and deployment workflows
+
+The documentation includes real-world deployment commands, server setup instructions, rate limiting configuration, SSL setup with Certbot, domain configuration, Elastic IP concepts, and security best practices for scalable full-stack application deployment.
+
+---
 # MongoDB Backup & Restore Guide
 
 This guide covers the essential commands for creating local backups and restoring them to remote environments like MongoDB Atlas.
